@@ -1,0 +1,14 @@
+C:\Users\Regent\documents\visual studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Regent\documents\visual studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\N_JARC.Form1.resources
+C:\Users\Regent\documents\visual studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\N_JARC.Properties.Resources.resources
+C:\Users\Regent\documents\visual studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Regent\documents\visual studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\bin\Debug\N-JARC 1.01.exe
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\bin\Debug\N-JARC 1.01.pdb
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\N-JARC 1.01.exe
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\N-JARC 1.01.pdb
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\bin\Debug\N-JARC 1.01.exe.manifest
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\bin\Debug\N-JARC 1.01.application
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\N-JARC 1.01.TrustInfo.xml
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\N-JARC 1.01.exe.manifest
+C:\Users\Regent\Documents\Visual Studio 2010\Projects\N-JARC\N-JARC\obj\x86\Debug\N-JARC 1.01.application
